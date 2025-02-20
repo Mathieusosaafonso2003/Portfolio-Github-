@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Ahorcado - Juego</title>
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+  <div class="game-container">
+    <h1>Juego del Ahorcado</h1>
+    <div></div>
+    <div id="category-select">
+      <h2>Elige una categoría:</h2>
+      <select id="category">
+        <option value="animes">Animes</option>
+        <option value="starWars">Star Wars</option>
+        <option value="videojuegos">Videojuegos 2000s</option>
+      </select>
+      <button id="start-button">Iniciar Juego</button>
+    </div>
+
+    <div id="game-content" style="display:none;">
+      <p id="message"></p>
+      <div id="word-container"></div>
+      <input type="text" id="letter-input" maxlength="1" placeholder="Introduce una letra">
+      <button id="guess-button">Adivinar</button>
+      <p id="attempts">Intentos restantes: 6</p>
+      <div id="hangman-image" class="hangman-image"></div>
+    </div>
+  </div>
+
+  <script src="script.js"></script>
+</body>
+</html>
+
