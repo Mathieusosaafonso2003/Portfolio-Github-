@@ -9,7 +9,7 @@ Este repositorio contiene tres proyectos desarrollados en HTML, CSS y JavaScript
 Cada uno de estos proyectos está diseñado para proporcionar una experiencia interactiva y entretenida.
 
 ---
-
+ 
 ## 1. Adivina el número (Versión Canaria)
 
 Un de adivinar en el que el usuario debe adivinar un numero.
