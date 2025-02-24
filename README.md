@@ -11,7 +11,7 @@ Cada uno de estos proyectos está diseñado para proporcionar una experiencia in
 ---
   
 ## 1. Adivina el número (Versión Canaria)
-
+ 
 Un de adivinar en el que el usuario debe adivinar un numero.
 
 ### Características:
