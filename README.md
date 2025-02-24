@@ -26,7 +26,7 @@ Un de adivinar en el que el usuario debe adivinar un numero.
 
 1. Abre `index.html` en un navegador web.
 2. Escribe una palabra en el cuadro de texto y comprueba si es la correcta.
-3. El juego dará pistas si el número ingresado es más alto o bajo.
+3. El juego dará pistas si el número ingresado es más alto o bajo. 
 4. Continúa hasta acertar el número aleatorio.
 
 ---
