@@ -1,0 +1,18 @@
+Calculadora
+Una calculadora funcional y visualmente atractiva que permite realizar operaciones matemáticas básicas, como sumar, restar, multiplicar y dividir. Con un diseño estilizado y moderno, es perfecta para realizar cálculos de manera rápida y sencilla.
+
+Características:
+Soporte para operaciones matemáticas fundamentales: La calculadora te permite realizar las operaciones más comunes: suma (+), resta (-), multiplicación (*), y división (/).
+
+Interfaz estilizada: La interfaz de usuario está diseñada con una estética moderna, utilizando la fuente personalizada Calculator.ttf para darle un toque único y atractivo a la experiencia de usuario.
+
+Desarrollo basado en JavaScript: La calculadora se desarrolla completamente en JavaScript, lo que permite realizar cálculos en tiempo real, sin necesidad de esperar a que se recargue la página.
+
+Compatible con navegadores modernos: El juego es compatible con todos los navegadores modernos, como Google Chrome, Firefox, Safari y Edge. No requiere instalaciones adicionales ni plugins.
+
+Cómo usar:
+Abre index.html en un navegador web: Simplemente abre el archivo index.html en cualquier navegador moderno (como Chrome, Firefox, Safari o Edge) para iniciar la calculadora.
+
+Usa los botones de la calculadora: Para realizar cálculos, haz clic en los botones correspondientes de la interfaz de la calculadora. Puedes ingresar números y seleccionar las operaciones matemáticas utilizando los botones disponibles.
+
+Obtén resultados en tiempo real: Los resultados de las operaciones se mostrarán de inmediato en la pantalla de la calculadora sin necesidad de recargar la página. Esto permite una experiencia fluida y rápida.
