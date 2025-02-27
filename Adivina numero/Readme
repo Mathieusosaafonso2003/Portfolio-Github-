@@ -33,5 +33,3 @@ Un juego clásico en el que el objetivo es adivinar un número secreto generado 
 ### Extras:
 
 - **Estilo visual canario**: La interfaz está adornada con colores y patrones inspirados en la cultura canaria, como las tonalidades del mar y la naturaleza, para darle un toque local a la experiencia de juego.
-
-- **Modo desafío**: El juego incluye una opción para incrementar la dificultad, donde los números se generan dentro de rangos más pequeños (por ejemplo, entre 1 y 50), o bien, el número secreto se cambia más rápidamente, haciendo que el jugador se adapte constantemente a nuevas reglas.
