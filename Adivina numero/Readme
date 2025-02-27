@@ -1,0 +1,37 @@
+## 1. Adivina el número (Versión Canaria)
+
+Un juego clásico en el que el objetivo es adivinar un número secreto generado aleatoriamente. La versión Canaria incluye un toque local con elementos de la cultura canaria, creando una experiencia única y divertida.
+
+### Características:
+
+- **Uso de números del 1 al 100**: El número a adivinar está en el rango de 1 a 100, lo que le da al juego un nivel de dificultad moderado y emocionante.
+  
+- **Interfaz sencilla e intuitiva**: La interfaz está diseñada para ser fácil de usar, sin distracciones innecesarias. Solo necesitas un cuadro de texto para introducir tu suposición, y un botón para enviar tu respuesta.
+
+- **Feedback en pantalla sobre la validez de la palabra ingresada**: El juego te proporciona un mensaje en tiempo real si el número que has ingresado es válido o no, lo que facilita la interacción del jugador sin tener que adivinar el formato correcto.
+
+- **Implementado con HTML, CSS y JavaScript**: El juego está construido con tecnologías web estándar, asegurando que pueda ser jugado en casi cualquier navegador sin necesidad de instalar nada adicional.
+
+- **Archivo de audio (Canción UDLP.mp3)**: Para mejorar la inmersión en el juego, se incluye una pista de audio que ambienta la experiencia, con una canción representativa de la Universidad de La Laguna, evocando la atmósfera canaria.
+
+- **Pistas durante el juego**: Si el número ingresado por el jugador es incorrecto, el juego proporciona pistas claras: te dirá si el número que intentaste es mayor o menor que el número secreto, ayudándote a acercarte a la respuesta correcta.
+
+- **Contador de intentos**: El juego también lleva un registro de cuántos intentos has realizado para adivinar el número, agregando un elemento de competencia personal para mejorar tu desempeño en cada partida.
+
+### Cómo jugar:
+
+1. **Abre `index.html` en un navegador web**: Al abrir el archivo en tu navegador, se cargará la página de inicio del juego con un cuadro de texto para ingresar tu suposición y un botón para enviar la respuesta.
+  
+2. **Escribe un número en el cuadro de texto**: Ingresa un número entre 1 y 100 en el cuadro de texto de la interfaz. Si el número es válido, presiona el botón para enviar la suposición.
+
+3. **Comienza el juego**: El juego te indicará si el número ingresado es más alto o bajo que el número secreto. También te dará un mensaje de felicitación una vez que adivines correctamente el número.
+
+4. **Pistas**: Si tu suposición es incorrecta, el juego te proporcionará una pista como: "El número es más alto" o "El número es más bajo". Esto te ayudará a enfocar tus esfuerzos y reducir gradualmente las opciones.
+
+5. **Continúa hasta acertar el número**: El objetivo es adivinar el número secreto lo más rápido posible. Cada vez que falles, podrás seguir probando hasta dar con la respuesta correcta.
+
+### Extras:
+
+- **Estilo visual canario**: La interfaz está adornada con colores y patrones inspirados en la cultura canaria, como las tonalidades del mar y la naturaleza, para darle un toque local a la experiencia de juego.
+
+- **Modo desafío**: El juego incluye una opción para incrementar la dificultad, donde los números se generan dentro de rangos más pequeños (por ejemplo, entre 1 y 50), o bien, el número secreto se cambia más rápidamente, haciendo que el jugador se adapte constantemente a nuevas reglas.
