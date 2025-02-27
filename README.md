@@ -9,7 +9,7 @@ Ainhoa y Mathieu son estudiantes del curso de Desarrollo de Aplicaciones Multipl
 Este repositorio contiene tres proyectos desarrollados en HTML, CSS y JavaScript:
 
 1. **Adivina el número (Versión Canaria)**
-2. **Ahorcado**
+2. **Ahorcado** 
 3. **Calculadora**
 
 Cada uno de estos proyectos está diseñado para proporcionar una experiencia interactiva y entretenida.
