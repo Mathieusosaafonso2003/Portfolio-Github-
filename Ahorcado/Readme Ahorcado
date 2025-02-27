@@ -1,0 +1,25 @@
+Ahorcado
+Una versión personalizada y moderna del clásico juego del ahorcado, con tres categorías temáticas para elegir: Anime, Videojuegos de los 2000s y Star Wars. Este juego es perfecto para los fanáticos de estas temáticas y ofrece una experiencia de juego divertida y desafiante.
+
+Características:
+Tres modos de juego temáticos para mayor variedad:
+
+Anime: Elige este modo para adivinar nombres de animes icónicos. Desde clásicos como Dragon Ball Z hasta obras más recientes como Attack on Titan, este modo es ideal para los fanáticos del anime.
+Videojuegos de los 2000s: Si creciste jugando en la era dorada de los videojuegos, este modo te permitirá adivinar títulos de juegos clásicos de los 2000s, como Halo, Grand Theft Auto: San Andreas o The Legend of Zelda: The Wind Waker.
+Star Wars: Para los fanáticos de la famosa saga galáctica, este modo incluye nombres de personajes de Star Wars, como Luke Skywalker, Darth Vader, o Leia Organa. ¡Atrévete a poner a prueba tus conocimientos del universo de Star Wars!
+Interfaz visual atractiva: La interfaz gráfica está diseñada de forma moderna y limpia, con un sistema progresivo de ahorcado que aumenta la tensión conforme el jugador comete errores. El diseño incluye elementos visuales relacionados con las temáticas seleccionadas para que el jugador se sienta más inmerso en la experiencia.
+
+Captura de teclas: El juego detecta las teclas presionadas por el jugador, lo que permite un flujo dinámico y fluido al momento de introducir las letras. Esto también evita tener que hacer clic constantemente, haciendo el juego más interactivo y atractivo.
+
+Totalmente funcional en navegadores modernos sin necesidad de instalación: El juego se ejecuta completamente en el navegador, lo que significa que no es necesario descargar ni instalar ningún software adicional. Solo necesitas abrir el archivo index.html y estarás listo para jugar.
+
+Cómo jugar:
+Abre index.html en un navegador web: Al abrir el archivo, el juego se cargará en tu navegador y podrás comenzar a jugar de inmediato.
+
+Elige una de las tres categorías disponibles: En la pantalla inicial, podrás elegir entre tres categorías temáticas. Elige la que más te guste y que más te desafíe.
+
+Introduce letras para adivinar la palabra oculta: En cada ronda, se te mostrará una palabra oculta representada por guiones bajos. Debes introducir letras a medida que intentas adivinar la palabra correcta. Cada letra que adivines correctamente se revelará en su lugar correspondiente.
+
+Cada error completará una parte del dibujo del ahorcado: Con cada letra incorrecta, se completará una parte del dibujo del ahorcado (cabeza, cuerpo, brazos, piernas, etc.). El objetivo es adivinar la palabra antes de que el dibujo del ahorcado se complete por completo.
+
+Gana adivinando la palabra antes de que se complete el ahorcado: Si logras adivinar todas las letras correctas antes de que se complete el ahorcado, ¡habrás ganado la ronda! Si no logras adivinar la palabra a tiempo, el juego mostrará un mensaje de derrota y podrás comenzar de nuevo.
