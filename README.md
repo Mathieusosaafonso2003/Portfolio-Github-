@@ -5,7 +5,7 @@ Ainhoa y Mathieu son estudiantes del curso de Desarrollo de Aplicaciones Multipl
 ---   
  
 # Proyectos de Juegos y Calculadora
-
+ 
 Este repositorio contiene tres proyectos desarrollados en HTML, CSS y JavaScript:
 
 1. **Adivina el número (Versión Canaria)**
