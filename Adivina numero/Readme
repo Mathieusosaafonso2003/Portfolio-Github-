@@ -10,9 +10,9 @@ Un juego clásico en el que el objetivo es adivinar un número secreto generado 
 
 - **Feedback en pantalla sobre la validez de la palabra ingresada**: El juego te proporciona un mensaje en tiempo real si el número que has ingresado es válido o no, lo que facilita la interacción del jugador sin tener que adivinar el formato correcto.
 
-- **Implementado con HTML, CSS y JavaScript**: El juego está construido con tecnologías web estándar, asegurando que pueda ser jugado en casi cualquier navegador sin necesidad de instalar nada adicional.
+- **Implementado con HTML, CSS y JavaScript**: El juego está construido con tecnologías web estándar, asegurando que pueda ser jugado en cualquier navegador sin necesidad de instalar nada adicional.
 
-- **Archivo de audio (Canción UDLP.mp3)**: Para mejorar la inmersión en el juego, se incluye una pista de audio que ambienta la experiencia, con una canción representativa de la Universidad de La Laguna, evocando la atmósfera canaria.
+- **Archivo de audio (Canción UDLP.mp3)**: Para mejorar la inmersión en el juego, se incluye una pista de audio que ambienta la experiencia, con una canción, evocando la atmósfera canaria.
 
 - **Pistas durante el juego**: Si el número ingresado por el jugador es incorrecto, el juego proporciona pistas claras: te dirá si el número que intentaste es mayor o menor que el número secreto, ayudándote a acercarte a la respuesta correcta.
 
