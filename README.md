@@ -21,4 +21,3 @@ Cada uno de estos proyectos está diseñado para proporcionar una experiencia in
 - **HTML** para la estructura de las páginas.
 - **CSS** para el diseño y la apariencia visual.
 - **JavaScript** para la interactividad y la lógica del juego/calculadora.
- 
